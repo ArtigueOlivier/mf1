@@ -4,6 +4,10 @@
 * [Cursus](cursus.md)
 * [Timeline](timeline.md)
 
+## Librairie
+* [Exercices pratiques](exercices.md)
+* [Base de connaissances](connaissances.md)
+
 ## Modules
 * [Outils pédagogiques](modules/outils.md)
 * [Cadre réglementaire](modules/reglementaire.md)
