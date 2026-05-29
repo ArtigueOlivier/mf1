@@ -5,8 +5,8 @@
 * [Timeline](timeline.md)
 
 ## Librairie
-* [Exercices pratiques](exercices.md)
-* [Base de connaissances](connaissances.md)
+* [Exercices pratiques](exos/exercices.md)
+* [Base de connaissances](base/connaissances.md)
 
 ## Modules
 * [Outils pédagogiques](modules/outils.md)
