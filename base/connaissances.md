@@ -1,4 +1,4 @@
-# [Home](README.md) / Base de connaissance
+# [Home](../README.md) / Base de connaissance
 
 ## Barotraumatismes
 
